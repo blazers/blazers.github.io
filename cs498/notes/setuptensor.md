@@ -44,6 +44,8 @@ Open another terminal window, assign a local port number.  The example uses **88
 
 Type your password for your account on tensor.hood.edu when prompted.
 
+Windows 10 comes with a native SSh client.  You will need to enable it because it is optional.  Use [Google](http://bfy.tw/MHzu) to find up to date instructions on how to enable SSH on Windows 10.  Type in the same `ssh` command from Windows command line window (type `CMD` in Windows search bar).
+
 # Use the Notebook:
 
 Launch any web browser, type `localhost:8888` in the address bar.
